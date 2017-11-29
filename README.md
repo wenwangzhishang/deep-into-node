@@ -61,13 +61,7 @@ Node.js 的源码分析，基于node v6.0.0。
 
 本书版权归作者所有，未经作者授权，禁止一切方式转载。
 
-- 联系作者 @江凌 微博：http://weibo.com/yangjianghua 
-
-- 邮箱：yjhjstz#gmail.com， 博客：http://alinode.aliyun.com
-
-本书尚在撰写中，欢迎读者讨论https://github.com/yjhjstz/deep-into-node/issues
 
 **如果您觉得还不错, 请我喝杯咖啡，欢迎Star,  提交PR** 
 
-![zhi](alipay.jpg)
 
